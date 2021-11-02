@@ -1,6 +1,6 @@
 /*
 Project: Quadratic Equation Solution
-Author: Victor Otieno
+Author: catherine kaluki
 Date: 26th Oct, 2021
 Compiler: GCC
 Language: C99
